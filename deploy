@@ -1,0 +1,5 @@
+#!/bin/sh
+cd /var/www/html/learning
+git pull  https://github.com/teamw-synapse/learning.git
+exit
+EOF
